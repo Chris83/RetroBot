@@ -1,0 +1,11 @@
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\bin\Debug\RetroBot.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\bin\Debug\RetroBot.exe
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\bin\Debug\RetroBot.pdb
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.RetroBotForm.resources
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.exe
+c:\users\chris\documents\visual studio 2013\Projects\RetroBot\RetroBot\obj\Debug\RetroBot.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\RetroBot\RetroBot\bin\Debug\WindowsInput.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\RetroBot\RetroBot\bin\Debug\WindowsInput.xml
